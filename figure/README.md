@@ -1,7 +1,7 @@
 # TRAIN LOSS
 
-![train_loss](./train_loss.png)
+![train_loss](./train.png)
 
 # TEST LOSS & ACC
 
-![test_loss & test_acc](./test_loss & test_acc.png)
+![test_loss & test_acc](./test.png)
